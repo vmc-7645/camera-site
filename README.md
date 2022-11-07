@@ -13,6 +13,9 @@ Overall, there are several aspects of this project that could be improved upon a
 
 ## Images
 
+![Settings](READMEmedia/settings.jpg?raw=true "Settings")
+
+![Camera](READMEmedia/camera.jpg?raw=true "Camera")
 
 # Gesture Site Angular
 
