@@ -1,4 +1,20 @@
-# GestureSite
+# Gesture Site
+## About
+A simple webapp used to take pictures with the users webcam, free to use/copy at will without credit (though it would be nice).
+
+Overall errors are prevented via several means throughout the site, those being through immediate dialog and informative documentation. In the “About” section there are several guides regarding different functions within the application, if the user happens to run into some issue or have a question the solution to it is likely going to be here.
+
+There are several aspects utilized in the application to allow for better usability from both advanced and less enabled users. The more advanced users can utilize the shortcuts feature which allows them to quickly access and trigger features easily. For example the keys “q”, “w”, and “e” each bring the user to the Camera, Settings, and the About page respectively. Additionally, when on the camera page the keys “a”, “s”, and “d”, switch the camera, take a picture, and enter/exit fullscreen mode respectively. As for aspects for those less enabled, all interactive elements are made to allow for colorblind users. For example, the function buttons (in addition to changing color) also change size when hovering over them and additionally change size even more once clicked. Additionally the menu buttons are emboldened once if the user is in that specific section. 
+
+The justification for the app is that it allows for users to take pictures via input from any connected camera through the medium of an easily accessible webapp interface capable of being hosted on the web. Compared to other applications is the accessibility, where most other camera applications need to be downloaded all you need for this one is a proper web browser. In future versions of the application I hope to be able to host the users images online to allow for ease of access to their personal gallery from anywhere which would add an additional element of purpose for this application. 
+
+Overall, there are several aspects of this project that could be improved upon and others that I believe are completely finished. When working on it in the future I hope to keep more of the actual principles and guidelines in mind when in the design and improvement process. Hopefully all necessary components will be completed when necessary.
+
+
+## Images
+
+
+# Gesture Site Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
