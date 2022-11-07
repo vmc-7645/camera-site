@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'gesture-site'`, () => {
+  it(`should have as title 'camera-site'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('gesture-site');
+    expect(app.title).toEqual('camera-site');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('gesture-site app is running!');
+    expect(compiled.querySelector('.content span')?.textContent).toContain('camera-site app is running!');
   });
 });
