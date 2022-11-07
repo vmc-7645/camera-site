@@ -1,4 +1,4 @@
-# Gesture Site
+# Camera Site
 ## About
 A simple webapp used to take pictures with the users webcam, free to use/copy at will without credit (though it would be nice).
 
@@ -17,7 +17,7 @@ Overall, there are several aspects of this project that could be improved upon a
 
 ![Camera](READMEmedia/camera.jpg?raw=true "Camera")
 
-# Gesture Site Angular
+# Camera Site Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
