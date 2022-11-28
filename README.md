@@ -1,4 +1,6 @@
 # Camera Site
+A simple camera application built on Angular. See a live demo [here](https://vmc-7645.github.io/camera-site/main).
+
 ## About
 A simple webapp used to take pictures with the users webcam, free to use/copy at will without credit (though it would be nice).
 
@@ -41,7 +43,21 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Deploying to GH Pages
 
+Install gh-pages-cli:
+
+```
+ng add angular-cli-ghpages
+```
+
+Then run 
+
+```
+ng deploy --base-href=/camera-site/
+```
+
+Check on [https://<username>.github.io/<repositoryname>](https://vmc-7645.github.io/camera-site).
 
 ## Further help
 
