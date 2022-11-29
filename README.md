@@ -1,5 +1,9 @@
 # Camera Site
-A simple camera application built on Angular. See a live demo [here](https://vmc-7645.github.io/camera-site/main).
+A simple camera application built on Angular. 
+
+See a live demo [here](https://vmc-7645.github.io/camera-site/main).
+
+Video [here](https://youtu.be/hGS0M45q2cs).
 
 ## About
 A simple webapp used to take pictures with the users webcam, free to use/copy at will without credit (though it would be nice).
